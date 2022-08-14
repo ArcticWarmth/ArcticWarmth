@@ -1,3 +1,3 @@
 - Hello, I’m @Condensed-Air
-- I’m interested in game development
-- I’m currently learning how to make Minecraft mods
+- I’m interested in game development and Discord bots
+- I’m currently learning how code in Java
