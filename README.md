@@ -1,7 +1,6 @@
 # About
-- Hello, I’m @ArcticWarmth, a high school student studying computer sciance.
-- I’m interested in game development and Chat bots
-- I’m currently learning how code in Rust
+- Hello, I’m @ArcticWarmth, a student making neat stuff
+- Currently studying cybersecurity
 
 # Stats
 
